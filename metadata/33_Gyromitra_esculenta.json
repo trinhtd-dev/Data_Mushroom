@@ -1,0 +1,41 @@
+{
+  "binomialNomenclature": "Gyromitra esculenta",
+  "commonNames": {
+    "en": ["Brain mushroom"],
+    "vi": ["Nấm não"]
+  },
+  "habitat": "Saprobic but has potential to also be mycorrhizal. Primarily found in spring under conifers. Widely distributed across Europe, North America, and Asia",
+  "shortDescription": "A highly poisonous fungus commonly mistaken for edible morel mushroom. Distinguished by brain-like appearance and irregular folds on cap. Despite toxicity, sometimes consumed as delicacy in Scandinavia and Eastern Europe",
+  "edibility": "Highly poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Highly toxic. Contains gyromitrin which converts to monomethylhydrazine (MMH) in body. MMH causes damage to red blood cells and liver, leading to nausea, vomiting, diarrhea, abdominal pain, dizziness, and even coma or death. Individual susceptibility varies greatly. Traditional preparation by boiling at least twice and discarding water may reduce toxin but toxin may evaporate into air making it health hazard if inhaled. Best to avoid completely",
+  "identification": {
+    "cap": "4 to 8 cm high and 3 to 12 cm wide; irregular and convoluted in shape, generally brain-like and often somewhat lobed (although usually not saddle-shaped); wrinkled and bald; starts off pinkish-tan to reddish-brown but becomes darker or nearly black in age and prolonged sunlight; undersurface not generally exposed, close to stem, tan to whitish, finely mealy",
+    "gills": "No gills - this is a false morel",
+    "stem": "3 to 9 cm long and 1 to 3.5 cm thick; pale yellowish-tan to rose-tinted, similar to cap; usually round in cross-section but frequently folded into figure-eight cross-section; bald",
+    "flesh": "Thin, brittle, whitish to tan, with slight or chambered structure",
+    "sporePrint": "Yellowish buff",
+    "taste": "",
+    "odor": "",
+    "microscopicFeatures": "Spores 19-28 x 10-13 µ, smooth, fusiform or nearly ellipsoid, usually biguttulate with two small droplets but occasionally uniguttulate or multiguttulate. Asci 8-spored. Paraphyses clavate, 4-10 µ wide, reddish to reddish-orange"
+  },
+  "lookAlikes": [
+    {
+      "binomialNomenclature": "Morchella esculenta"
+    },
+    {
+      "binomialNomenclature": "Helvella crispa"
+    },
+    {
+      "binomialNomenclature": "Gyromitra infula"
+    },
+    {
+      "binomialNomenclature": "Gyromitra montana"
+    },
+    {
+      "binomialNomenclature": "Gyromitra californica"
+    }
+  ],
+  "medicinalProperties": "",
+  "note": "First described in 1800 by Christian Hendrik Persoon and named Helvella esculenta; its current name was given by Elias Magnus Fries in 1849. The name Gyromitra comes from Greek for 'round' and 'headband', while esculenta ironically means 'edible'. DNA analysis has placed it in the Discinaceae family. Other common names include German (Frühlingslorchel) and Netherlands (Voorjaarskluifzwam). Synonyms include Helvella esculenta and Physomitra esculenta."
+}

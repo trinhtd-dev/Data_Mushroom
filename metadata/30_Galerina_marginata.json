@@ -1,0 +1,28 @@
+{
+  "binomialNomenclature": "Galerina marginata",
+  "commonNames": {
+    "en": ["funeral bell", "deadly skullcap", "autumn skullcap"],
+    "vi": ["Nấm đầu lâu mùa thu"]
+  },
+  "habitat": "Saprobic, thriving on rotting wood from both hardwoods and conifers, contributing to stringy white rot. Typically grows in clusters but can also appear gregariously or alone. Most common in spring and fall, but can be found year-round in North America, Europe, Asia, and Australia. Can also appear in urban areas with dead wood or organic matter",
+  "shortDescription": "A highly toxic small brown-capped mushroom that shares lethal qualities with death cap. Contains potent amatoxins causing severe liver and kidney damage often leading to fatal outcomes. Just 10 fruit bodies could poison a child. Often mistaken for honey mushrooms or hallucinogenic species",
+  "edibility": "Deadly poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Extremely dangerous. Contains potent amatoxins (α-amanitin and γ-amanitin) which disrupt RNA polymerase II, halting cell function and leading to organ failure. Symptoms take up to 10 hours to appear: severe abdominal pain, vomiting, diarrhea, followed by deceptive remission, then rapid decline into liver and kidney failure. Without immediate aggressive medical intervention such as liver transplant, death can occur within days",
+  "identification": {
+    "cap": "1.5 to 5 cm (occasionally up to 8 cm) in diameter; starts convex and becomes broadly convex or nearly flat, sometimes with slight bell shape; sticky when fresh or wet, can become tacky to dry; color varies from honey yellow with orangish hue to cinnamon or brownish orange, may fade giving two-toned appearance; smooth, but margin may have whitish veil remnants when young, becoming lined as it matures",
+    "gills": "Broadly attached to stem, may start to run down slightly; closely spaced with shorter gills interspersed; initially yellowish turning rusty brown or brownish as they mature; covered by whitish partial veil when young; do not bruise but may show spotting in old age",
+    "stem": "2 to 7 cm long, 3 to 8 mm thick; generally even, dry, smooth or slightly flecked with whitish fibrils when fresh and young; usually has thin, whitish to rusty brown collapsed ring or ring zone (may be absent in some specimens); color ranges from whitish to brownish, darkening to reddish brown from base upward, with white basal mycelium",
+    "flesh": "Thin and insubstantial; yellowish to watery brownish color that does not change when sliced",
+    "sporePrint": "Telltale rusty brown",
+    "taste": "",
+    "odor": "Mild or slightly mealy when crushed",
+    "microscopicFeatures": "Spores broadly amygdaliform to subellipsoid, 7-11 x 4-6 µm, verrucose with reddish-brown color in KOH, often with loosening perispore. Basidia mostly 4-sterigmate but can occasionally be 2-sterigmate. Both pleurocystidia and cheilocystidia lageniform with long neck, rounded or subclavate apex, smooth, thin-walled, hyaline in KOH. Pileipellis is ixocutis. Clamp connections present"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Kuehneromyces mutabilis" },
+    { "binomialNomenclature": "Flammulina velutipes" }
+  ],
+  "medicinalProperties": "",
+  "note": "Often confused with small brown mushrooms like Armillaria or Flammulina species. Distinctive rusty brown spore print unlike white spore prints of edible look-alikes. While deadly to humans, plays vital ecological role as saprotrophic fungus helping decompose wood and recycling nutrients. Its presence indicates advanced decay. Chemical reactions: KOH turns red to dull red on cap surface, ammonia shows no reaction, iron salts are negative. Pets should be kept away - symptoms in dogs/cats include vomiting, diarrhea, lethargy, abdominal pain, jaundice, seizures, possible coma. A long list of synonyms exists, including Agaricus autumnalis, Pholiota marginata, and Galerina autumnalis."
+}

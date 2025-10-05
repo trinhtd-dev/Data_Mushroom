@@ -1,0 +1,28 @@
+{
+  "binomialNomenclature": "Pholiotina rugosa",
+  "commonNames": {
+    "en": ["Common Conecap Mushroom"],
+    "vi": ["Nấm cỏ"]
+  },
+  "habitat": "Saprobic; growing alone or gregariously on the ground in woods or urban locations, often in landscaping areas near woody debris; spring and summer in north-temperate climates, or overwinter in Mediterranean climates; in North America distributed primarily from upstate New York to Michigan and especially from northern California to Alaska; also reported from Europe and Oceania",
+  "shortDescription": "A small brown lawn mushroom with conical to bell-shaped cap and fragile stem bearing a ring. Contains deadly amatoxins that cause fatal liver poisoning. Common lawn mushroom widely distributed especially in Pacific Northwest",
+  "edibility": "Deadly poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Highly toxic to the liver; responsible for mushroom-related deaths. Contains amatoxins which are highly toxic to the liver, same as in deadly Amanita and Lepiota genera. No medicinal use",
+  "identification": {
+    "cap": "1–2 cm; broadly conic to broadly bell-shaped at first, becoming broadly convex to planoconvex, sometimes with a central bump; thin; lubricous; bald; smooth, or finely wrinkled over the center; dark orangish-brown centrally and yellowish-brown toward the edge; margin finely lined, about halfway to the center",
+    "gills": "Narrowly attached to the stem; close; short-gills frequent; whitish becoming brownish; at first covered by a whitish partial veil",
+    "stem": "20–35 mm long; 2–3 mm thick; fragile; equal above a slightly swollen base; brownish to brown below and whitish above; pruinose to fibrillose; with a fairly persistent, whitish to brownish, upward-flared ring that sometimes features a grooved upper edge",
+    "flesh": "Insubstantial; watery brownish; unchanging",
+    "sporePrint": "Yellow-brown",
+    "taste": "Not recorded",
+    "odor": "Not distinctive",
+    "microscopicFeatures": "Spores 8–9 x 5–6 µm; ellipsoid; with a 1–1.5 µm pore; smooth; walls about 0.5 µm thick; bright orange-brown in KOH. Basidia 4-sterigmate; 20–25 x 6–8 µm; clavate. Pleurocystidia not found. Cheilocystidia 30–35 x 6–8 µm; lageniform, most with a fairly long neck; thin-walled; smooth; hyaline in KOH. Pileipellis hymeniform; terminal cells obpyriform; up to 25 µm across; smooth; hyaline in KOH"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Galerina marginata" },
+    { "binomialNomenclature": "Conocybe tenera" }
+  ],
+  "medicinalProperties": "",
+  "note": "Often mistaken for Psilocybe due to cap shape. First described scientifically in 1898 by American mycologist Charles Horton Peck as Pholiota rugosa. Transferred to its present genus (then Conocybe) by British mycologist Roy Watling in 1981. The generic name Conocybe comes from Latin for 'cone head'. The specific epithet rugosa means 'wrinkled'. Synonyms include Pholiota rugosa, Conocybe rugosa, and Pholiotina filaris."
+}

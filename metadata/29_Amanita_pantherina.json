@@ -1,0 +1,29 @@
+{
+  "binomialNomenclature": "Amanita pantherina",
+  "commonNames": {
+    "en": ["Panther cap"],
+    "vi": ["Nấm mụn trắng", "nấm tán da báo"]
+  },
+  "habitat": "Forms mycorrhizal relationship with trees in forests and meadows across Europe and western Asia, particularly in late summer and autumn. Prefers deciduous forests but can also be found under conifers like pine and spruce. Has spread to South Africa due to imported trees",
+  "shortDescription": "A medium to large psychoactive and highly poisonous mushroom with brown-tan cap covered in white warts. Contains muscimol and ibotenic acid affecting the central nervous system. Can cause hallucinations, nausea, vomiting, and severe cases can lead to death",
+  "edibility": "Poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Highly poisonous. Contains psychoactive compounds muscimol and ibotenic acid. Can cause hallucinations, confusion, disorientation, seizures, respiratory depression, and in severe cases coma or death. However, some research suggests muscimol may reduce stress/anxiety, relieve muscular pain, support sleep, and display anti-tumor properties. Illegal to buy, sell, or possess in Netherlands since December 2008",
+  "identification": {
+    "cap": "3 to 18 cm wide; convex shape that flattens as it matures; sticky texture when fresh; colored brown to tan or yellowish-brown; smooth surface with numerous small white warts; edges may develop slight lines when mature",
+    "gills": "Mostly free from the stem; white in color; crowded together, with some shorter gills interspersed among the longer ones",
+    "stem": "4 to 20 cm in length, up to 2.5 cm thick; tapers toward the top with swollen base; texture can be scaly or smooth; white color; white skirt-like ring present above, with possible concentric rings at the base",
+    "flesh": "White and does not change color when cut, although the stem may turn slightly yellowish",
+    "sporePrint": "White",
+    "taste": "",
+    "odor": "Unpleasant smell, reminiscent of raw potatoes",
+    "microscopicFeatures": "Spores smooth, ellipsoid, 8-14 x 6-10 µm. Basidia typically have four spores. Cap surface consists of hyphae 2-7 µm wide, gills have complex structure with branched subhymenium"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Amanita rubescens" },
+    { "binomialNomenclature": "Amanita excelsa" },
+    { "binomialNomenclature": "Amanita regalis" }
+  ],
+  "medicinalProperties": "Recent neuroscience research suggests muscimol may reduce stress and anxiety, relieve muscular pain, support restorative sleep, display anti-tumor properties and protect memory",
+  "note": "First described in 1815 by Augustin Pyramis De Candolle as Agaricus pantherinus. Paul Kummer changed name to Amanita pantherina in 1871. Name 'pantherina' refers to brown-and-white spotted look of cap. Used to create extracts, tinctures, gummies, capsules, and chocolate products. Effects are compared to high doses of Ambien or alcohol rather than classic psychedelics like psilocybin. Other common names: German (Pantherpilz), Netherlands (Panteramaniet), Czech Republic (Muchomůrka Tygrovaná). Synonyms and Varieties include: Amanitaria pantherina, Agaricus pantherinus, and several varieties like abietum, albida, and xantha."
+}

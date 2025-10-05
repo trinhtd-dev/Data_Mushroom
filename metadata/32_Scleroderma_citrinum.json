@@ -1,0 +1,28 @@
+{
+  "binomialNomenclature": "Scleroderma citrinum",
+  "commonNames": {
+    "en": ["Common Earth Ball", "Pigskin Poison Puffball"],
+    "vi": ["Nấm vỏ chanh"]
+  },
+  "habitat": "Most common species of earthball in woods, heathland and in short grass from autumn to winter. Widely distributed across Europe and Asia. Attached to soil by mycelial cords",
+  "shortDescription": "Superficially similar to edible puffball but earthball breaks up to release spores rather than having single opening on top. Has much firmer flesh and dark interior much earlier in development than puffballs. No stem but attached to soil by mycelial cords",
+  "edibility": "Poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Poisonous. Ingestion can cause gastrointestinal issues. <!-- Thông tin độc tính cụ thể không được nêu rõ trong nguồn, cần tìm thêm -->",
+  "identification": {
+    "cap": "4–12cm across and 3–6cm tall; tough skin is dirty-yellow to ochre-brown and covered in coarse, warty scales in irregular shapes; as fungus matures, can turn ochre-brown or green",
+    "gills": "No gills - this is a puffball-type mushroom",
+    "stem": "Doesn't have a stem but does have a few root-like mycelial threads which are attached to the soil",
+    "flesh": "Inside young earthball is whitish, sometimes with pink-purple tinge; as it ages, flesh becomes purple-brown to black with what looks like small white 'veins' running through it",
+    "sporePrint": "",
+    "taste": "",
+    "odor": "",
+    "microscopicFeatures": "Individual spores are spherical and spiked. Spore mass is grayish, becoming purply-black, marbled at first by white veins and powdery when mature. When mature, outer skin ruptures, creating large irregular opening that releases spores dispersed by wind and rain"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Scleroderma areolatum" },
+    { "binomialNomenclature": "Calvatia spp." }
+  ],
+  "medicinalProperties": "",
+  "note": "First described by Christian Hendrik Persoon in 1801. Scleroderma fungi are close relatives of boletes, particularly genus Gyroporus. The generic name Scleroderma comes from Greek for 'hard skin'. The specific epithet citrinum refers to the 'lemon-yellow' color. Other common names include Kartoffelbovist (German), Scléroderme vulgaire, and Scléroderme orangé (French)."
+}

@@ -1,0 +1,30 @@
+{
+  "binomialNomenclature": "Coprinopsis atramentaria",
+  "commonNames": {
+    "en": ["Ink cap"],
+    "vi": ["Nấm mực mỡ"]
+  },
+  "habitat": "Grows in clusters from the root systems of dead trees, often in urban and disturbed areas such as lawns and grasslands. Found in grasslands, meadows, disturbed ground, and open areas from late spring to autumn. Can push through asphalt and tennis courts. It is often associated with buried wood. Also found in mountains growing under Aspen and Conifers. It is a widely distributed mushroom found in Europe and North America",
+  "shortDescription": "A widely distributed mushroom found in Europe and North America, known for producing black ink from its gills. Has gray to brownish-gray cap with few tiny scales. Edible if gills are white, but consuming with alcohol causes 'disulfiram syndrome' due to coprine compound",
+  "edibility": "Edible if gills are white, but causes severe reaction with alcohol",
+  "isPoisonous": false,
+  "benefitsOrToxicity": "Consuming with alcohol leads to 'disulfiram syndrome' due to coprine blocking acetaldehyde breakdown enzyme. Symptoms include facial flushing, nausea, vomiting, malaise, agitation, heart palpitations. Can occur even days after consumption. The source states the symptoms are unpleasant but not dangerous and recovery is usually complete, though one case of esophageal rupture from vomiting has been reported. Large prolonged doses have been found to have gonadotoxic effects in rats and dogs",
+  "identification": {
+    "cap": "3 to 10 cm tall; starts as oval, becoming conical-convex when mature; lead gray, grayish, or gray-brown; smooth with finely scaly or slightly scruffy texture over the center; may have faint grooves or lines; margin may be curled and tattered",
+    "gills": "White and crowded turning to grey than black and deliquescing, melting to black ink",
+    "stem": "8 to 15 cm long, 6 to 12 mm thick; white, smooth or finely hairy, fibrous, and hollow",
+    "flesh": "White to pale gray throughout; thin; soft",
+    "sporePrint": "Black",
+    "taste": "",
+    "odor": "",
+    "microscopicFeatures": "Spores 6.5-10.5 x 4-6.5 µ; elliptical; smooth; with a central pore. Basidia 4-spored, surrounded by 3-6 brachybasidia. Pleurocystidia and cheilocystidia cylindric to utriform; up to 210 x 55 µ. Pileipellis a cutis. Veil elements tubular; up to 10 µ wide. Clamp connections present"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Coprinellus micaceus" },
+    { "binomialNomenclature": "Coprinus comatus" },
+    { "binomialNomenclature": "Coprinopsis romagnesiana" },
+    { "binomialNomenclature": "Coprinopsis acuminata" }
+  ],
+  "medicinalProperties": "Has been used to cure alcoholism due to its effects when consumed with alcohol.",
+  "note": "Can be used to make ink: place mushrooms on plate at room temperature for a few days until they disintegrate. Preserve ink with 1 part formalin to 20 parts ink. First described in 1786 by Jean Baptiste Francois Pierre Bulliard as Agaricus atramentarius. In 1838, it was transferred to the genus Coprinus by Elias Magnus Fries. DNA analysis in 2001 reduced the Coprinus genus, and most inkcaps are now in new genera within the family Psathyrellaceae. The name Coprinopsis means 'similar to Coprinus', which means 'living on dung.' The specific epithet atramentaria comes from Latin and means 'a very dark or black substance.' Other common names include German (Grauer Faltentintling) and Netherlands (Grote kale inktzwam). Synonyms include: Coprinus atramentarius, Agaricus atramentarius, Coprinopsis atramentaria, and many others."
+}

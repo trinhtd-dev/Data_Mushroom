@@ -1,0 +1,28 @@
+{
+  "binomialNomenclature": "Inocybe rimosa",
+  "commonNames": {
+    "en": ["straw-colored fiber head"],
+    "vi": ["Nấm mũ khía nâu xám"]
+  },
+  "habitat": "Mycorrhizal with hardwoods or conifers; growing alone, scattered, or gregariously; summer and fall (and winter in California); widely distributed in North America",
+  "shortDescription": "A poisonous mushroom native to Europe with a brownish fibrous cap and stalk lacking a ring. Contains muscarine and can cause serious poisoning",
+  "edibility": "Poisonous",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Contains muscarine. Serious poisoning can result from consuming any quantity of the mushroom.",
+  "identification": {
+    "cap": "2-8 cm, conical to bell-shaped with a sharp central bump. Dry, silky or finely hairy, straw yellow to yellowish-brown. Margin splits and surface becomes radially separated with age.",
+    "gills": "Attached to the stem, close or crowded. Whitish, becoming grayish and then brownish with maturity.",
+    "stem": "3-9 cm long, up to 1 cm thick, more or less equal. Dry, smooth or finely silky, sometimes twisted. Whitish or pale yellowish.",
+    "flesh": "Whitish; insubstantial",
+    "sporePrint": "Brown",
+    "taste": "",
+    "odor": "Spermatic, mealy, or lacking",
+    "microscopicFeatures": "Spores 9.5-14.5 x 6-8.5 µ, elliptical, smooth. Pleurocystidia absent. Cheilocystidia 30-65 x 10-22, cylindrical to nearly clavate, thin-walled."
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Inocybe geophylla" },
+    { "binomialNomenclature": "Inocybe erubescens" }
+  ],
+  "medicinalProperties": "",
+  "note": "Formerly known as Inocybe fastigiata. Its toxic ingredient is muscarine. Described by Bulliard in 1789 as Agaricus rimosus and transferred to Inocybe by Kummer in 1871. The genus name means 'fibrous head', and 'rimosa' means 'full of cracks'."
+}

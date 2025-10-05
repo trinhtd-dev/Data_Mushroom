@@ -1,0 +1,33 @@
+{
+  "binomialNomenclature": "Psilocybe semilanceata",
+  "commonNames": {
+    "en": ["liberty cap"],
+    "vi": ["Nấm thức thần", "Nấm ma thuật", "Nấm ảo giác"]
+  },
+  "habitat": "Saprobic grassland mushroom most often found on upland pastures, notably on hill slopes. Usually grows in meadows and pastures, often in those grazed by sheep. Sometimes seen on lawns and in lowland meadows. Does not grow on dung. Grows frequently in North America and throughout Europe",
+  "shortDescription": "Known as 'Liberty Caps' due to their large caps, these are among the most potent psilocybin mushrooms. They grow frequently in North America and throughout Europe. Cream-colored caps with distinct pimple on top and striations that become more pronounced with age",
+  "edibility": "Poisonous/Psychoactive",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Contains psilocybin and psilocin causing hallucinogenic effects. Highly potent psychoactive mushroom. Effects include hallucinations, distorted reality, altered perception of space and time",
+  "identification": {
+    "cap": "0.5 to 2cm in diameter; cream-colored with striations that become more pronounced with age and in dry weather; usually have a distinct pimple on the top",
+    "gills": "Olive-gray free gills turn purple-black as the spores mature",
+    "stem": "2 to 3mm in diameter and 4 to 10cm tall; slender cream stem; fibrous, usually wavy and sometimes colored blue towards the base",
+    "flesh": "",
+    "sporePrint": "Very dark purple-brown",
+    "taste": "",
+    "odor": "Musty odor",
+    "microscopicFeatures": "Spores ellipsoidal, smooth, 11.5-14.5 x 7-9μm"
+  },
+  "lookAlikes": [
+    { "binomialNomenclature": "Panaeolus semiovatus" },
+    { "binomialNomenclature": "Panaeolina foenisecii" },
+    { "binomialNomenclature": "Psilocybe strictipes" },
+    { "binomialNomenclature": "Psilocybe mexicana" },
+    { "binomialNomenclature": "Psilocybe samuiensis" },
+    { "binomialNomenclature": "Psilocybe pelliculosa" },
+    { "binomialNomenclature": "Inocybe geophylla" }
+  ],
+  "medicinalProperties": "",
+  "note": "First described by Elias Magnus Fries in 1838 as Agaricus semilanceatus. Paul Kummer transferred it to Psilocybe in 1871. Panaeolus semilanceatus is a synonym. Several former varieties of P. semilanceata are now synonymous with Psilocybe strictipes. The generic name is derived from Ancient Greek psilos ('smooth, bare') and Byzantine Greek kubê ('head'). The specific epithet comes from Latin semi ('half, somewhat') and lanceata ('spear-shaped'). Molecular studies in the 2000s showed Psilocybe was polyphyletic, leading to a proposal to conserve the name Psilocybe with P. semilanceata as the type, which was accepted in 2009 to prevent nomenclatural changes to this well-known group of fungi linked to archaeology, anthropology, and forensics. Cultivation is extremely difficult; experienced cultivators recommend searching in natural habitat. They feed on putrescent grassroots and like fertilized substrate."
+}

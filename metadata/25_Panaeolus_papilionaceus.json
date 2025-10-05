@@ -1,0 +1,25 @@
+{
+  "binomialNomenclature": "Panaeolus papilionaceus",
+  "commonNames": {
+    "en": ["bell-capped mottlegill", "Petticoat mottlegill"],
+    "vi": ["Nấm mũ chuông"]
+  },
+  "habitat": "Grows on cow/horse manure and in pastures enriched with equine or bovine dung; widely distributed in North America in Spring, Summer, and Fall and through the winter in warmer climates",
+  "shortDescription": "A coprophilous mushroom that grows on dung, characterized by black spore print, mottled gray and black gills, white veil fragments hanging from cap edge, and absence of stem ring",
+  "edibility": "Not recommended",
+  "isPoisonous": true,
+  "benefitsOrToxicity": "Probably not toxic, but related species may be mildly hallucinogenic",
+  "identification": {
+    "cap": "1.5-4.0 cm broad, obtusely conic becoming bell-shaped; margin at first slightly incurved, then decurved, decorated with white veil fragments; surface smooth, dry, subviscid in moist weather, olive-brown to gray-brown, occasionally yellowish-brown to reddish-brown at the disc; flesh grayish to buff-brown, thin",
+    "gills": "Adnate to adnexed, sometimes seceding, close, broad, pale grey, the faces mottled darker from maturing spores, edges pallid; in age blackish overall",
+    "stem": "6-12 cm long, 2-4 mm thick, slender, fragile, hollow, more or less equal but sometimes slightly enlarged at the apex and base; surface striate above, otherwise pruinose (at least when young), gray-brown, darker where handled; partial veil fibrillose-membranous, white, evanescent, leaving fragments on the pileal margin",
+    "flesh": "Grayish to buff-brown, thin",
+    "sporePrint": "Black",
+    "taste": "",
+    "odor": "Mild",
+    "microscopicFeatures": "Spores 12-17 x 7-10 µm, elliptical, smooth, with an apical pore"
+  },
+  "lookAlikes": [],
+  "medicinalProperties": "",
+  "note": "Until recently, this species was part of a confusing group including Panaeolus campanulatus, P. sphrinctrinus and P. retirugis. Work by Gerhardt (1996) indicates these are conspecific, with P. papilionaceus being the oldest valid name"
+}
